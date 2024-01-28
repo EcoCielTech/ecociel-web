@@ -1,5 +1,8 @@
 # EcoCiel-WEB: Showcasing Tomorrow's Sustainable Marketplace
 
+
+![Screenshot from 2024-01-28 16-30-27](https://github.com/EcoCielTech/ecociel-web/assets/64556649/194baa09-dfd3-4c59-a272-4d9768c048ab)
+
 ## About EcoCiel-WEB
 
 EcoCiel is a visionary initiative poised at the intersection of sustainability and technology. Currently, our website serves as a showcase of our values, principles, and vision for the future. While it currently functions as a static showcase website, we have ambitious plans to evolve it into a dynamic and robust marketplace, redefining the way individuals and businesses engage with environmental sustainability.
